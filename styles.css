@@ -99,7 +99,8 @@ body{
     margin-top: 50px;
     border-radius: 20px;
     margin-left: 100px;
-    display: inline-flex;
+   display: inline-grid;
+    content: unset;
     
     justify-content: space-around;
     border: 2px solid black;
